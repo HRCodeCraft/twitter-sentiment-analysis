@@ -1,0 +1,8 @@
+how to start:-
+python3.10 -m venv myprojectvenv
+source myprojectvenv/bin/activate
+pip install -r requirements.txt
+python main.py
+
+if env is there - only line 5.
+if env is not there - 3 and 5.
